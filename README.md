@@ -152,17 +152,14 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 <tr>
   <td><a href="https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode">Astro</a></td>
   <td>Support for Astro components and syntax</td>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode">Install</a></td>
 </tr>
 <tr>
   <td><a href="https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case">change-case</a></td>
   <td>Quickly convert text between different cases</td>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case">Install</a></td>
 </tr>
 <tr>
   <td><a href="https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx">MDX</a></td>
   <td>Language support for MDX (Markdown + JSX)</td>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx">Install</a></td>
 </tr>
 </table>
 
