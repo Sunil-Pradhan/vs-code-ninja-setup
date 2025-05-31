@@ -12,11 +12,16 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Correia Github Gruvbox](https://marketplace.visualstudio.com/items?itemName=CorreiaGitHubGruvbox.correia-github-gruvbox)
+- [GitHub Sharp Theme](https://marketplace.visualstudio.com/items?itemName=joaomoreno.github-sharp-theme)
+- [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc)
+- [MacOS Modern Theme](https://marketplace.visualstudio.com/items?itemName=davidbwaters.macos-modern-theme)
 
 ### 📁 File Icon Theme
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [City Lights Icon package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
+- [Emoji File Icons](https://marketplace.visualstudio.com/items?itemName=mightbesimon.emoji-icons)
 
 ### 🔧 Product Icon Theme
 
@@ -144,11 +149,26 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
   <td><a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a></td>
   <td>Powerful Markdown preview with diagrams and math</td>
 </tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode">Astro</a></td>
+  <td>Support for Astro components and syntax</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode">Install</a></td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case">change-case</a></td>
+  <td>Quickly convert text between different cases</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case">Install</a></td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx">MDX</a></td>
+  <td>Language support for MDX (Markdown + JSX)</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx">Install</a></td>
+</tr>
 </table>
 
 ## ⌨️ Shortcuts Cheat Sheet (Mac / Windows)
 
-### 🧭 Navigation    
+### 🧭 Navigation
 
 - <kbd>Cmd</kbd> + <kbd>P</kbd> / <kbd>Ctrl</kbd> + <kbd>P</kbd> → Quick file search
 - <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> → Go to symbol in file
@@ -239,7 +259,7 @@ These settings live inside: `.vscode/settings.json`
 **🌍 Global (applies everywhere)**
 
 1. Open Command Palette:
-   
+
     <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
 
 2. Search: Preferences: Open Workspace Settings (JSON)
